@@ -1,0 +1,9 @@
+id,password,last_login,is_superuser,username,first_name,last_name,email,is_staff,is_active,date_joined
+1,,NULL,0,,,,,0,1,"2023-07-14 08:58:13.729047"
+2,pass,NULL,0,yadhu,kooo,,yadhu@gmail.com,0,1,"2023-07-14 09:11:20.918911"
+3,pbkdf2_sha256$600000$JR2E7bettpsPsjWxK6aYP8$LT5mSoxB6Ii8ebLzV7g5b994IHqm281K+h+2NeOIWxI=,NULL,0,manu,kiii,,manu@gmail.com,0,1,"2023-07-14 09:29:23.135658"
+4,pbkdf2_sha256$600000$tIaqKQJNkN0TTq9DTFDXtV$H7tK66kVetvTsvkrcL+vr1+Vc3k+qA1NXcVcm3Tj3qY=,NULL,0,manii,mani,,mani@gmail.com,0,1,"2023-07-14 10:17:46.579673"
+5,pbkdf2_sha256$600000$HULuVVoo77w0YUkUAPHMoR$DIX7jk7/rUyEemdyGO/sSryVtOygtksMLO+rqRPJ4mk=,NULL,0,qqqq,,,q@mail.com,0,1,"2023-07-15 05:23:09.904153"
+6,pbkdf2_sha256$600000$fDFxxhSWYNlrQRWKLNWuCq$mJwa/PyakvFBcxdhsBl+DG+9+ThJZ1bv7ePEeHfA/48=,NULL,0,q,,,u@gmail.com,0,1,"2023-07-15 05:30:31.353480"
+7,pbkdf2_sha256$600000$q7gWWf8iTvBVy9TiCp3rXa$OvuQ4QVmihwh5zol7mVA1BwEFAGKAw/OatUqtsYhxxg=,NULL,0,keyboard,,,keyboard@gmail.com,0,1,"2023-07-17 08:39:27.287251"
+8,pbkdf2_sha256$600000$sf6etJPGUx0BPpIun0HZ1Y$ROjtaMktc2XNwxUxqgNJZqkONF1tqVVLaPtXH9nvHmw=,NULL,0,mouse,mouse,,mouse@gmail.com,0,1,"2023-07-17 08:46:37.096779"
